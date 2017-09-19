@@ -1,0 +1,17 @@
+.thumbnailContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.thumbnailPic{
+    width: 200px;
+}
+
+.thumbPic{
+    width: 200px;
+    height: 200px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
